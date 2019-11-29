@@ -2732,8 +2732,8 @@ html.no-csstransitions .home-content__main {
 .s-clients {
     padding-top: 16.2rem;
     padding-bottom: 16.8rem;
-    background-color: #e6e6e6;
-    color: #757575;
+    background-color: #111111;
+    color: white;
     position: relative;
 }
 
