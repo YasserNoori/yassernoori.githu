@@ -92,11 +92,12 @@ $(document).ready(function() {
 		$('#signup').hide();
 		$('#login').hide();
 		// Show Logout Button
+		$('#imgSection').show();
 		$('#logoutBtn').show();
 		$('.buttonx').show();
-		$('#headerTitle').text("N O O R I . C O . V U — Obesity & LameB0is's Chat");
+		$('#headerTitle').text(" — ANY Enterprises —");
 		$('#navUsername').text(username);
-		$('.page-content').html("<h1>Welcome To The Chat!</h1><br /><br />");
+		$('.page-content').html("<h1>Support Forum</h1><br /><br />");
 		chatUser = username;
 		// Show Chat
 		$("#chatDiv, #chatDiv dialog").show();
